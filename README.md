@@ -5,7 +5,9 @@ shajib - Md. Nazmul Hasan Shajib
 
 $ cat about.txt
 I build backend-heavy, full-stack software, mostly in Go.
-I like knowing what the machine is actually doing: how a request travels, how a runtime schedules work, what a container really is etc.
+I like knowing what the machine is actually doing: how a request travels, 
+how a runtime schedules work, what a container really is etc.
+Currently leveraging AI-assisted workflows at work to rapidly prototype and ship product ideas.
 I also like terminal-native, retro-flavoured interfaces.
 ```
 ## What I'm building
